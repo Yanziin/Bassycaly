@@ -28,7 +28,7 @@ local InterfaceManager = loadstring(game:HttpGet("https://raw.githubusercontent.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 local Window = Fluent:CreateWindow({
     Title = "IZUH HUB",
-    SubTitle = "discord/https://discord.com/invite/JCDfSHxsVt",
+    SubTitle = "by psicho",
     TabWidth = 160,
     Size = UDim2.fromOffset(500, 320),
     Acrylic = true,
@@ -2536,7 +2536,7 @@ ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.120833337, 0, 0.0952890813, 0)
 ImageButton.Size = UDim2.new(0, 50, 0, 50)
 ImageButton.Draggable = true
-ImageButton.Image = "http://www.roblox.com/asset/?id=17382863073"
+ImageButton.Image = "https://create.roblox.com/store/asset/17594942433/Teste"
 ImageButton.MouseButton1Down:connect(function()
     game:GetService("VirtualInputManager"):SendKeyEvent(true,Enum.KeyCode.End,false,game)
 end)
@@ -7869,8 +7869,8 @@ Tabs.profile:AddParagraph({
     })
   
 Tabs.profile:AddParagraph({
-        Title = "link Discord ZINER HUB",
-        Content = "https://discord.gg/Y8vrbPyPyR"
+        Title = "link Discord Corsairs GG",
+        Content = "https://discord.com/invite/JCDfSHxsVt"
     })      
 --------------------------------------------------------------------------------------------------------------------------------------------
 --Hop
@@ -7946,7 +7946,7 @@ end)
 end
 ----------------------------------------------------------------------------------------------------------------------------------------------
 Fluent:Notify({
-    Title = "ZINER HUB",
+    Title = "IZUH HUB",
     Content = "Helllo you",
     Durtion = 3
 })
